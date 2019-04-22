@@ -1,0 +1,44 @@
+{
+  "env": {
+    "browser": false,
+    "es6": true,
+    "jasmine": false,
+    "mocha": false,
+    "node": true
+  },
+  "extends": "eslint:recommended",
+  "plugins": [
+    "eslint-plugin-sort-requires"
+  ],
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module"
+  },
+  "rules": {
+    "arrow-parens": [
+      2,
+      "as-needed"
+    ],
+    "comma-dangle": [
+      2,
+      "never"
+    ],
+    "no-console": 0,
+    "prefer-const": [
+      "error", {
+        "destructuring": "any",
+        "ignoreReadBeforeAssign": false
+      }
+    ],
+    "quotes": [
+      2,
+      "single"
+    ],
+    "semi": [
+      2,
+      "never"
+    ],
+    "sort-requires/sort-requires": 2
+  },
+  "globals": {}
+}

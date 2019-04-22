@@ -1,0 +1,9 @@
+[submodule "biblical-hebrew-fe"]
+	path = biblical-hebrew-fe
+	url = git@github.com:danday74/biblical-hebrew-fe.git
+[submodule "biblical-hebrew-be"]
+	path = biblical-hebrew-be
+	url = git@github.com:danday74/biblical-hebrew-be.git
+[submodule "biblical-hebrew-auth"]
+	path = biblical-hebrew-auth
+	url = git@github.com:danday74/biblical-hebrew-auth.git
