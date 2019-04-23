@@ -1,8 +1,6 @@
 definite
 --------
 
-all into single repo
-
 base 64 encode keys
 
 bot image should be resized to 302x302
