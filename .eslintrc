@@ -34,7 +34,11 @@
     "semi": [
       2,
       "never"
-    ]
+    ],
+    "sort-requires/sort-requires": 2
   },
-  "globals": {}
+  "globals": {},
+  "plugins": [
+    "eslint-plugin-sort-requires"
+  ]
 }
