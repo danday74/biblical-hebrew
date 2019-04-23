@@ -1,8 +1,6 @@
 definite
 --------
 
-change invisible input to read only? (test Chrome login uses it)
-
 base 64 encode keys
 
 bot image should be resized to 302x302
