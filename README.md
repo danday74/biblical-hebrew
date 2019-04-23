@@ -9,4 +9,7 @@
 * git submodule foreach 'git checkout master'
 * git submodule add ${repo}
 
+* git push --recurse-submodules=check
+* git push --recurse-submodules=on-demand
+
 Docs are [here](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
