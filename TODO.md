@@ -7,6 +7,8 @@ bot image should be resized to 302x302
 
 firefox trying to save password on signup
 
+chrome suggesting pw on signup
+
 if all Hebrew chars in login box change to rtl
 
 change font to nice Hebrew font for signup heading (and cross browser test)
