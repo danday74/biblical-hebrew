@@ -5,6 +5,8 @@ if all Hebrew chars in login box change to rtl - done for username, repeat for p
 
 this site uses cookies + cookie policy
 
+robot eyes follow mouse?
+
 400s not giving JSON response :(
 
 track logged in users - prevent logged in user from logging in
