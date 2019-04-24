@@ -1,8 +1,6 @@
 definite
 --------
 
-chrome suggesting pw on signup
-
 if all Hebrew chars in login box change to rtl
 
 change font to nice Hebrew font for signup heading (and cross browser test)
@@ -37,6 +35,10 @@ search for word
 link for lesson audio
 
 word of the day
+
+last login (useful for me and show to user on site)
+
+rewards for login streaks
 
 maybe
 -----
