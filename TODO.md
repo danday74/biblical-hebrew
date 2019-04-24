@@ -3,7 +3,7 @@ definite
 
 if all Hebrew chars in login box change to rtl - done for username, repeat for pw, eye should switch sides?
 
-this site uses cookies
+this site uses cookies + cookie policy
 
 400s not giving JSON response :(
 
