@@ -11,6 +11,7 @@
     "preinstall": "git submodule foreach \"npm i\"",
     "start": "pm2 start",
     "stop": "pm2 delete all",
+    "flush": "pm2 flush",
     "eslint": "eslint ecosystem.config.js",
     "test": "git submodule foreach \"npm test\"",
     "lint": "npm run eslint && git submodule foreach \"npm run lint\"",
