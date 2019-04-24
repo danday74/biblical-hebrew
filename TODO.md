@@ -1,8 +1,6 @@
 definite
 --------
 
-bot image should be resized to 302x302
-
 firefox trying to save password on signup
 
 chrome suggesting pw on signup
@@ -13,6 +11,8 @@ change font to nice Hebrew font for signup heading (and cross browser test)
 with fallback to normal Bootstrap font
 
 track logged in users - prevent logged in user from logging in
+
+this site uses cookies
 
 bot v not a bot images?
 
