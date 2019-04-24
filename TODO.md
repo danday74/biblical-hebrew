@@ -12,6 +12,8 @@ this site uses cookies
 
 track logged in users - prevent logged in user from logging in
 
+create should track ip - prevent >3 new accounts per day from same ip?
+
 TODOs in code
 
 firefox trying to save password on signup
