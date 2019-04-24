@@ -8,6 +8,8 @@ with fallback to normal Bootstrap font
 
 this site uses cookies
 
+400s not giving JSON response :(
+
 track logged in users - prevent logged in user from logging in
 
 TODOs in code
@@ -15,6 +17,8 @@ TODOs in code
 firefox trying to save password on signup
 
 bot v not a bot images?
+
+Google Analytics
 
 tidy up server logs
 
