@@ -3,9 +3,6 @@ definite
 
 if all Hebrew chars in login box change to rtl - done for username, repeat for pw, eye should switch sides?
 
-change font to nice Hebrew font for signup heading (and cross browser test)
-with fallback to normal Bootstrap font
-
 this site uses cookies
 
 400s not giving JSON response :(
@@ -16,6 +13,8 @@ create should track ip - prevent >3 new accounts per day from same ip?
 
 TODOs in code
 
+user logo?
+
 firefox trying to save password on signup
 
 bot v not a bot images?
@@ -23,8 +22,6 @@ bot v not a bot images?
 Google Analytics
 
 tidy up server logs
-
-tidy up READMEs, NOTEs, TODOs
 
 pm2 prod config
 
