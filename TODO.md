@@ -1,8 +1,6 @@
 definite
 --------
 
-firefox trying to save password on signup
-
 chrome suggesting pw on signup
 
 if all Hebrew chars in login box change to rtl
@@ -10,9 +8,13 @@ if all Hebrew chars in login box change to rtl
 change font to nice Hebrew font for signup heading (and cross browser test)
 with fallback to normal Bootstrap font
 
+this site uses cookies
+
 track logged in users - prevent logged in user from logging in
 
-this site uses cookies
+TODOs in code
+
+firefox trying to save password on signup
 
 bot v not a bot images?
 
