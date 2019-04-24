@@ -37,7 +37,7 @@ module.exports = {
       // instances: 1, // commenting this out may help stop Windows spawn
       autorestart: true, // default
       watch: true,
-      ignore_watch: ['node_modules'],
+      ignore_watch: ['node_modules', 'coverage'],
       max_memory_restart: '1G', // default
       env: {
         NODE_ENV: 'development'
