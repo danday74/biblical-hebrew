@@ -1,6 +1,8 @@
 definite
 --------
 
+bot eyes orange fade
+
 if all Hebrew chars in login box change to rtl - done for username, repeat for pw, eye should switch sides?
 
 this site uses cookies + cookie policy
