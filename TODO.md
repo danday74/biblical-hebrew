@@ -1,7 +1,7 @@
 definite
 --------
 
-if all Hebrew chars in login box change to rtl
+if all Hebrew chars in login box change to rtl - done for username, repeat for pw, eye should switch sides?
 
 change font to nice Hebrew font for signup heading (and cross browser test)
 with fallback to normal Bootstrap font
