@@ -1,9 +1,9 @@
 definite
 --------
 
-if all Hebrew chars in login box change to rtl - done for username, repeat for pw, eye should switch sides?
-
 this site uses cookies + cookie policy
+
+if all Hebrew chars in login box change to rtl - done for username, repeat for pw, eye should switch sides?
 
 400s not giving JSON response :(
 
