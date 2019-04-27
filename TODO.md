@@ -1,7 +1,7 @@
 definite
 --------
 
-this site uses cookies + cookie policy
+untested browser warning
 
 if all Hebrew chars in login box change to rtl - done for username, repeat for pw, eye should switch sides?
 
