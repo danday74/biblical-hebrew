@@ -17,8 +17,6 @@ user logo?
 
 firefox trying to save password on signup
 
-bot v not a bot images?
-
 Google Analytics
 
 tidy up server logs
