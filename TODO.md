@@ -1,6 +1,10 @@
 definite
 --------
 
+footer tidy up
+
+flashing on logout :(
+
 untested browser warning
 
 if all Hebrew chars in login box change to rtl - done for username, repeat for pw, eye should switch sides?
