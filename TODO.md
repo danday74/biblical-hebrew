@@ -17,8 +17,6 @@ user logo?
 
 firefox trying to save password on signup
 
-Google Analytics
-
 tidy up server logs
 
 pm2 prod config
@@ -28,6 +26,8 @@ nginx prod config
 aot build
 
 deploy
+
+add email link to footer?
 
 allow font change on login
 
