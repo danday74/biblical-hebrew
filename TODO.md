@@ -27,6 +27,8 @@ aot build
 
 deploy
 
+testimonies page?
+
 add email link to footer?
 
 allow font change on login
