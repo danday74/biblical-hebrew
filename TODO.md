@@ -3,6 +3,10 @@ definite
 
 on signup cancel restore focus to username
 
+change Biblical Hebrew image color to match new colors (and font on signup?)
+
+robot eyes not central
+
 untested browser warning
 
 if all Hebrew chars in login box change to rtl - done for username, repeat for pw, eye should switch sides?
@@ -53,8 +57,6 @@ maybe
 login guy masks
 
 fave tab? or remember tab? worth it with URL?
-
-consider changing Biblical Hebrew image color to match new colors (and font on signup?)
 
 unlock lessons for cash
 
