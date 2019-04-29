@@ -7,6 +7,8 @@ flashing on logout :(
 
 untested browser warning
 
+on signup cancel restore focus to username
+
 if all Hebrew chars in login box change to rtl - done for username, repeat for pw, eye should switch sides?
 
 400s not giving JSON response :(
