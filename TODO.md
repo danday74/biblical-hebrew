@@ -1,7 +1,7 @@
 definite
 --------
 
-on signup cancel restore focus to username
+package.json === app => app.version app.name
 
 change Biblical Hebrew image color to match new colors (and font on signup?)
 
@@ -78,5 +78,7 @@ tests
 cross-browser
 
 ncu
+
+check subscribes have a destroyer
 
 
