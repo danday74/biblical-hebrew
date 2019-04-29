@@ -3,8 +3,6 @@ definite
 
 package.json === app => app.version app.name
 
-change Biblical Hebrew image color to match new colors (and font on signup?)
-
 robot eyes not central
 
 untested browser warning
