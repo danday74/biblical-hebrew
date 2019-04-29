@@ -1,15 +1,13 @@
 definite
 --------
 
-footer tidy up
-
-flashing on logout :(
+on signup cancel restore focus to username
 
 untested browser warning
 
-on signup cancel restore focus to username
-
 if all Hebrew chars in login box change to rtl - done for username, repeat for pw, eye should switch sides?
+
+flashing on logout :(
 
 400s not giving JSON response :(
 
