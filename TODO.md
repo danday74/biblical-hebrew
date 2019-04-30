@@ -1,6 +1,8 @@
 definite
 --------
 
+change title if logged out?
+
 recolor favicon (and for server)
 
 robot eyes not central
