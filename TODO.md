@@ -1,8 +1,6 @@
 definite
 --------
 
-package.json === app => app.version app.name
-
 robot eyes not central
 
 untested browser warning
