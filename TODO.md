@@ -1,6 +1,8 @@
 definite
 --------
 
+recolor favicon (and for server)
+
 robot eyes not central
 
 untested browser warning
