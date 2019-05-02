@@ -1,8 +1,6 @@
 definite
 --------
 
-change title if logged out?
-
 robot eyes not central
 
 untested browser warning
