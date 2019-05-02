@@ -9,6 +9,8 @@ robot eyes not central
 
 flashing on logout :(
 
+Hebrew on-screen keyboard
+
 400s not giving JSON response :(
 
 track logged in users - prevent logged in user from logging in
