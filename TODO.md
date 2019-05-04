@@ -1,8 +1,6 @@
 definite
 --------
 
-title is not set on "proceed anyway"
-
 if all Hebrew chars in login box change to rtl - done for username, repeat for pw, eye should switch sides?
 
 robot eyes not central
