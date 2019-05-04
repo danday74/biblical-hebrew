@@ -1,7 +1,7 @@
 definite
 --------
 
-untested browser warning
+mobile warning
 
 if all Hebrew chars in login box change to rtl - done for username, repeat for pw, eye should switch sides?
 
@@ -78,5 +78,7 @@ cross-browser
 ncu
 
 check subscribes have a destroyer
+
+height and width for all images (better positioning on page load)
 
 
