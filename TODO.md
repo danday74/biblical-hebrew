@@ -1,6 +1,14 @@
 definite
 --------
 
+toggle keyboard size
+
+toggle Hebrew / English / auto toggle (auto would do nothing during login but would switch between the 2 during questions)
+
+remember keyboard pos and open state for user?
+
+move other ui state things to ui state reducer / actions
+
 if all Hebrew chars in login box change to rtl - done for username, repeat for pw, eye should switch sides?
 
 robot eyes not central
