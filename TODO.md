@@ -1,7 +1,8 @@
 definite
 --------
 
-When you hit a key on the keyboard on signup screen it types the password for you!
+keyboard width
+border too big on keyboard?
 
 hebrew keyboard step forward button needs to be moved a few pixels
 
