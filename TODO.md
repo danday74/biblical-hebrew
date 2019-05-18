@@ -1,13 +1,8 @@
 definite
 --------
 
-keyboard width
-border too big on keyboard?
-
-hebrew keyboard step forward button needs to be moved a few pixels
-
 modularisation of app.module.ts
-sin / shin on diff keys???
+sin / shin on diff keys??? keep holem-vav and shuruq???
 keyboard toggle keys to alphabet order?
 check keyboard behaviour same as using real keyboard - especially with Hebrew chars
 hide numbers on login?
