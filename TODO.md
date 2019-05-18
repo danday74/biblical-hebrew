@@ -1,11 +1,31 @@
 definite
 --------
 
+When you hit a key on the keyboard on signup screen it types the password for you!
+
+hebrew keyboard step forward button needs to be moved a few pixels
+
+modularisation of app.module.ts
+sin / shin on diff keys???
+keyboard toggle keys to alphabet order?
+check keyboard behaviour same as using real keyboard - especially with Hebrew chars
+hide numbers on login?
+think about size of keys - so small right now
+keyboard hebrew vowel positions wrong in other browsers
+keyboard font toggle, especially Hebrew
 toggle keyboard size
-
 toggle Hebrew / English / auto toggle (auto would do nothing during login but would switch between the 2 during questions)
-
+toggle whether on screen keyboard controls normal keyboard - this option not available until tutorial is completed
 remember keyboard pos and open state for user?
+vowel keys as images
+
+
+
+
+
+sorting hebrew chars in word into correct order
+
+is not optimised for tablets
 
 move other ui state things to ui state reducer / actions
 
@@ -38,6 +58,8 @@ nginx prod config
 aot build
 
 deploy
+
+monitor toggle input on keyboard - need logic to accommodate all pages
 
 testimonies page?
 
