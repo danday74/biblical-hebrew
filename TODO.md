@@ -1,8 +1,6 @@
 definite
 --------
 
-think about size of keys - so small right now
-
 keyboard font toggle, especially Hebrew
 keyboard size toggle
 
