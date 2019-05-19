@@ -72,6 +72,8 @@ last login (useful for me and show to user on site)
 
 rewards for login streaks
 
+Strong's API / links
+
 maybe
 -----
 
