@@ -6,7 +6,7 @@ think about size of keys - so small right now
 keyboard font toggle, especially Hebrew
 keyboard size toggle
 
-remember keyboard pos and / or open state, lang, font, size, etc for user
+remember keyboard pos and / or open state, lang, font, size, etc for user - and sessionStorage for unknown user - maybe do not remember all when user unknown
 
 cursor not staying as grabbing on drag
 sin / shin on diff keys? keep holem-vav and shuruq?
