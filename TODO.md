@@ -1,18 +1,20 @@
 definite
 --------
 
-sin / shin on diff keys??? keep holem-vav and shuruq???
-keyboard toggle keys to alphabet order?
-check keyboard behaviour same as using real keyboard - especially with Hebrew chars
-hide numbers on login?
 think about size of keys - so small right now
-keyboard hebrew vowel positions wrong in other browsers
+
 keyboard font toggle, especially Hebrew
-toggle keyboard size
+keyboard size toggle
+
+remember keyboard pos and / or open state, lang, font, size, etc for user
+
+cursor not staying as grabbing on drag
+sin / shin on diff keys? keep holem-vav and shuruq?
+hide numbers on login?
+check keyboard behaviour same as using real keyboard - especially with Hebrew chars
+keyboard hebrew vowel positions wrong in other browsers / vowel keys as images
 toggle Hebrew / English / auto toggle (auto would do nothing during login but would switch between the 2 during questions)
 toggle whether on screen keyboard controls normal keyboard - this option not available until tutorial is completed
-remember keyboard pos and open state for user?
-vowel keys as images
 
 
 
