@@ -1,7 +1,6 @@
 definite
 --------
 
-modularisation of app.module.ts
 sin / shin on diff keys??? keep holem-vav and shuruq???
 keyboard toggle keys to alphabet order?
 check keyboard behaviour same as using real keyboard - especially with Hebrew chars
