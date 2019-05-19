@@ -1,10 +1,15 @@
 definite
 --------
 
+move all enums to enums folder
+
 keyboard font toggle, especially Hebrew
 keyboard size toggle
 
 remember keyboard pos and / or open state, lang, font, size, etc for user - and sessionStorage for unknown user - maybe do not remember all when user unknown
+
+change icon for increase size, decrease size and toggle vowels?
+change icon color (not white)?
 
 cursor not staying as grabbing on drag
 sin / shin on diff keys? keep holem-vav and shuruq?
