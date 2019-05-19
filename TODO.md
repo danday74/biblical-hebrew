@@ -1,8 +1,6 @@
 definite
 --------
 
-move all enums to enums folder
-
 keyboard font toggle, especially Hebrew
 keyboard size toggle
 
