@@ -4,6 +4,8 @@ definite
 keyboard font toggle, especially Hebrew
 keyboard size toggle
 
+massive keyboard with both en and he on key?
+
 remember keyboard pos and / or open state, lang, font, size, etc for user - and sessionStorage for unknown user - maybe do not remember all when user unknown
 OR maybe better is to remember keyboard settings for computer and not user so they do not change on login
 
