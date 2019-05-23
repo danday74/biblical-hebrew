@@ -1,7 +1,6 @@
 definite
 --------
 
-double check small
 do large
 
 keyboard font toggle, especially Hebrew
