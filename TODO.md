@@ -1,10 +1,7 @@
 definite
 --------
 
-do large
-
 keyboard font toggle, especially Hebrew
-keyboard size toggle
 
 massive keyboard with both en and he on key?
 
