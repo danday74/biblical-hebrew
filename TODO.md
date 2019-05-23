@@ -12,8 +12,7 @@ massive keyboard with both en and he on key?
 remember keyboard pos and / or open state, lang, font, size, etc for user - and sessionStorage for unknown user - maybe do not remember all when user unknown
 OR maybe better is to remember keyboard settings for computer and not user so they do not change on login
 
-change icon for increase size, decrease size and toggle vowels?
-change icon color (not white)?
+change icon for toggle vowels?
 
 cursor not staying as grabbing on drag
 sin / shin on diff keys? keep holem-vav and shuruq?
