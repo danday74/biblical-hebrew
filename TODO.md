@@ -1,6 +1,8 @@
 definite
 --------
 
+drop multiple fonts for vowels (except holem vav and shuruq - use font with circle under qamats)
+
 keyboard font toggle, especially Hebrew
 
 massive keyboard with both en and he on key?
